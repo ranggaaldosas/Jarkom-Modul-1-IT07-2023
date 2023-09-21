@@ -22,6 +22,10 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 <p align="center">
     <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
 
+**`FLAG: Jarkom2023{string}`**
+
+---
+
 ### Soal 2
 
 1. liat header pada web nya
@@ -31,3 +35,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
 
 3. masukin gunicorn di nc
+
+**`FLAG: Jarkom2023{string}`**
+
+---
