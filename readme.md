@@ -23,7 +23,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 <p align="center">
     <img src="https://i.ibb.co/tL6nBbD/1695384514023.jpg">
     
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{ada_di_screenshot}`**
 
 ---
 
@@ -39,7 +39,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 <p align="center">
     <img src="https://i.ibb.co/BwjpxmZ/1695384542387.jpg">
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{ada_di_screenshot}`**
 
 ---
 
@@ -54,7 +54,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
     <img src="https://i.ibb.co/xzy1535/1695384563405.jpg">
 
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{ada_di_screenshot}`**
 
 ---
 
@@ -95,7 +95,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
    - port common untuk SMTP -> 25
    - IP mana yang merupakan public -> hanya ada 2 IP yaitu 10.10.1.4 dan 74.53.140.153, karna 10.10.1.4 masuk ke rentang IP Private, jadi jawabanya 74.53.140.153
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{ada_di_screenshot}`**
 
 ---
 
@@ -110,7 +110,8 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
    <p align="center">
     <img src="https://i.ibb.co/QJDDBQf/1695385265541.jpg"
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{ada_di_screenshot}`**
+
 
 ---
 
@@ -131,15 +132,12 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 ### Soal 8
 
-1. liat header pada web nya
+1. pada soal yang tertera  disuruh lakukan kueri filter. filternya menggunakan `tcp.dstport == 80 || udp.dstport == 80` sesuai clue
+2. lakukan netcat
 <p align="center">
-    <img src=https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
-
-2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
-
-3. masukin gunicorn di nc
-
-**`FLAG: Jarkom2023{string}`**
+    <img src="https://i.ibb.co/Vgsh8RP/1695385964838.jpg">
+   
+**`FLAG: Jarkom2023{ada_di_screenshot}`**
 
 ---
 
