@@ -17,11 +17,12 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 1. Lakukan dengan display filter ftp || ftp-data
 2. Ditemukan suatu packet unik dari hasil filtering tersebut, lalu dicek
-3. Jawab pertanyaan sesuai hasil filtering tersebut
-
+   <p align="center">
+    <img src="https://i.ibb.co/c82NmMB/1695384489491.jpg">
+4. Jawab pertanyaan sesuai hasil filtering tersebut
 <p align="center">
-    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
-
+    <img src="https://i.ibb.co/tL6nBbD/1695384514023.jpg">
+    
 **`FLAG: Jarkom2023{string}`**
 
 ---
@@ -30,11 +31,13 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 1. liat header pada web nya
 <p align="center">
-    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
+    <img src="https://i.ibb.co/ZGYXZWT/1695384527680.jpg">
 
 2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
 
 3. masukin gunicorn di nc
+<p align="center">
+    <img src="https://i.ibb.co/BwjpxmZ/1695384542387.jpg">
 
 **`FLAG: Jarkom2023{string}`**
 
@@ -42,13 +45,14 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 ### Soal 3
 
-1. liat header pada web nya
-<p align="center">
-    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
+1. Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702?
+2. Dari pertanyaan tsb, filter dengan cara berikut ip.addr == 239.255.255.250 && udp.port == 3702 sehingga didapatkan capture paket sesuai dengan permintaan soal kemudian dihitung dan didapatkan 21 paket dan terlihat protocol nya adalah UDP
+   <p align="center">
+    <img src="https://i.ibb.co/Y8jWJCK/1695384554735.jpg">
+4. Masukkan di nc
+   <p align="center">
+    <img src="https://i.ibb.co/xzy1535/1695384563405.jpg">
 
-2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
-
-3. masukin gunicorn di nc
 
 **`FLAG: Jarkom2023{string}`**
 
