@@ -136,7 +136,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 2. Kueri filter yang sesuai permintaan soal yaitu ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
 
 <p align="center">
-    <img src=https://i.ibb.co/mBDQKkM/image.png>
+    <img src="https://i.ibb.co/mBDQKkM/image.png">
 
 
 **`FLAG: Jarkom2023{string}`**
