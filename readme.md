@@ -78,14 +78,22 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 ---
 
 ### Soal 5
-
-1. liat header pada web nya
-<p align="center">
-    <img src=https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
-
-2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
-
-3. masukin gunicorn di nc
+1. download file pcap, dan telusuri di wireshark, dapet encoded base64 password
+   <p align="center">
+    <img src="https://i.ibb.co/jyHFwq4/1695385182942.jpg">
+2. pass zip == 5implePas5word
+   <p align="center">
+    <img src="https://i.ibb.co/2vBk385/1695385214245.jpg">
+   <p align="center">
+    <img src="https://i.ibb.co/mvs6zsQ/1695385226520.jpg">
+3. jawab pertanyaan sesuai di nc nya
+   <p align="center">
+    <img src="https://i.ibb.co/v3ydc0c/1695385238540.jpg">
+   <p align="center">
+    <img src="https://i.ibb.co/7r4FxmN/1695385250984.jpg">
+   - Berapa packet -> wireshark statistics, terlihat 60
+   - port common untuk SMTP -> 25
+   - IP mana yang merupakan public -> hanya ada 2 IP yaitu 10.10.1.4 dan 74.53.140.153, karna 10.10.1.4 masuk ke rentang IP Private, jadi jawabanya 74.53.140.153
 
 **`FLAG: Jarkom2023{string}`**
 
@@ -93,13 +101,14 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 ### Soal 6
 
-1. liat header pada web nya
-<p align="center">
-    <img src=https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
-
-2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
-
-3. masukin gunicorn di nc
+1. Sesuai hint soal “server SOURCE ADDRESS 7812”, kami mencari packet bernomor 7812 di file pcap tersebut
+   <p align="center">
+    <img src="https://i.ibb.co/8cdNnRw/1695385278020.jpg">
+3. kami mendapatkan source address nya adalah 104.18.14.101, sesuai hint, yaitu a1z26, kami mencoba mendecode source address tersebut
+10 = J, 4 = D, 18 = R, 14 = N, 10 = J, 1 = A
+4. Dikarenakan terdapat hint “SOURCE ADDRESS ADALAH KUNCI SEMUANYA.” alias JDRNJA, kami memasukkan hal tersebut di netcat, lalu kami mendapatkan flag tersebut
+   <p align="center">
+    <img src="https://i.ibb.co/QJDDBQf/1695385265541.jpg"
 
 **`FLAG: Jarkom2023{string}`**
 
