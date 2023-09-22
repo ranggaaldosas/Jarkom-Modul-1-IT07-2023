@@ -69,7 +69,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 <p align="center">
     <img src=https://i.ibb.co/6nVdD32/image.png>
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023 {ch3cksum_is_u5eful_0xcf67}`**
 
 ---
 
@@ -112,7 +112,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 <p align="center">
     <img src=https://i.ibb.co/wJ63krd/image.png>
     
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023 {oV6983GapVZCD5U0zO_4n0th3r_f1lt3ring}`**
 
 ---
 
@@ -139,7 +139,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
     <img src="https://i.ibb.co/mBDQKkM/image.png">
 
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{y3s_its_PjNkQiNhRkQ_qu3ry1ng}`**
 
 ---
 
@@ -155,7 +155,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 <p align="center">
     <img src=https://i.ibb.co/58T8GdN/image.png>
 
-**`FLAG: Jarkom2023{string}`**
+**`FLAG: Jarkom2023{t3lnet_is_95AB8yzxAx3B2xB5C_N0tsecu2e}`**
 
 ---
 
