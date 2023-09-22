@@ -150,10 +150,10 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 3.Lalu setelah melakukan sekian percobaan maka ditemukan jawaban yang benar dhafin:kesayangannyak0k0
 
 <p align="center">
-    <img src="https://i.ibb.co/Hp27c6d/image.png>
+    <img src="https://i.ibb.co/Hp27c6d/image.png">
 
 <p align="center">
-    <img src="https://i.ibb.co/58T8GdN/image.png>
+    <img src=https://i.ibb.co/58T8GdN/image.png>
 
 **`FLAG: Jarkom2023{string}`**
 
