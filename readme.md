@@ -62,12 +62,12 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 3. Dan didapatkan `Checksum: 0x18e5 [unverified]`
 
 <p align="center">
-    <img src="https://i.ibb.co/DpF1Ns6/image.png>
+    <img src=https://i.ibb.co/DpF1Ns6/image.png>
     
 4. masukkan 0x18e5  di nc
 
 <p align="center">
-    <img src="https://i.ibb.co/6nVdD32/image.png>
+    <img src=https://i.ibb.co/6nVdD32/image.png>
 
 **`FLAG: Jarkom2023{string}`**
 
@@ -77,7 +77,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 1. liat header pada web nya
 <p align="center">
-    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
+    <img src=https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
 
 2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
 
@@ -91,7 +91,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 1. liat header pada web nya
 <p align="center">
-    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
+    <img src=https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
 
 2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
 
@@ -108,9 +108,9 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 3. masukkan nc dan berikan jawaban 6 seperti jumlah paket yang tersedia
 
 <p align="center">
-    <img src="https://i.ibb.co/nM0cQGC/image.png>
+    <img src=https://i.ibb.co/nM0cQGC/image.png>
 <p align="center">
-    <img src="https://i.ibb.co/wJ63krd/image.png>
+    <img src=https://i.ibb.co/wJ63krd/image.png>
     
 **`FLAG: Jarkom2023{string}`**
 
@@ -120,7 +120,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 
 1. liat header pada web nya
 <p align="center">
-    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
+    <img src=https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
 
 2. terlihat server nya bernama gunicorn, input gunicorn di netcat.
 
@@ -136,7 +136,7 @@ Praktikum Modul 1 Jaringan Komputer - **IT07**
 2. Kueri filter yang sesuai permintaan soal yaitu ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
 
 <p align="center">
-    <img src="https://i.ibb.co/mBDQKkM/image.png>
+    <img src=https://i.ibb.co/mBDQKkM/image.png>
 
 
 **`FLAG: Jarkom2023{string}`**
